@@ -1,7 +1,7 @@
 # MLLM Tutorial
 
-LREC-COLING 2024 Tutorial of `From Multimodal LLM to Human-level AI:
-Modality, Instruction, Reasoning, Efficiency and Beyond` 
+CVPR2024 Tutorial of `From Multimodal LLM to Human-level AI:
+Modality, Instruction, Reasoning and Beyond` 
 
 
-https://MLLM2024.github.io/COLING2024
+https://MLLM2024.github.io/CVPR2024
